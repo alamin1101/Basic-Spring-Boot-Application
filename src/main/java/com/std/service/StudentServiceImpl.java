@@ -1,7 +1,7 @@
-package com.dsi.service;
+package com.std.service;
 
-import com.dsi.entity.Student;
-import com.dsi.repository.StudentRepository;
+import com.std.entity.Student;
+import com.std.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
